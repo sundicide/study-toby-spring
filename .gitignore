@@ -1,0 +1,30 @@
+# Ignore everything
+*
+
+# But not these files...
+!spring_01/**
+!spring_02/**
+!.gitignore
+# ...even if they are in subdirectories
+!*/
+
+# re except some extensions
+*.swf
+*.TTF
+*.eot
+*.woff
+*.class
+*.scssc
+*.scss
+*.jar
+*.tmp
+*.rb
+*.md
+*.woff2
+*.cur
+*.min.js
+*.css
+*.pkg
+*.otf
+
+#ignore class folder

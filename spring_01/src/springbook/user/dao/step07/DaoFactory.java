@@ -11,3 +11,7 @@ public class DaoFactory {
 		return userDao;
 	}
 }
+
+/**
+ * 제어의 역전 / IoC
+ */

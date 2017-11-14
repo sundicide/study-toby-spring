@@ -4,6 +4,7 @@
 # But not these files...
 !spring_01/**
 !spring_02/**
+!spring_03/**
 !toby/**
 !.gitignore
 !*.jar
